@@ -1,6 +1,6 @@
-- 👋 Welcome @codewithboateng
+- 👋 Welcome,This is @codewithboateng
 
-- ⚡ Fun fact: I love pineapples
+- ⚡ Fun fact: We love pineapples
 
 <!---
 codewithboateng/codewithboateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
